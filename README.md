@@ -21,8 +21,8 @@ A Live2D desktop pet application built with PyQt5 and OpenGL.
 ### 2. Source Code Version 
 1. Clone repository:
 ```bash
-git clone [repository_url] 
-cd [repository_name]
+git clone https://github.com/SpacervalLam/Deskpet
+cd Deskpet
 ```
 
 2. Install dependencies:
