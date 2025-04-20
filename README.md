@@ -14,12 +14,11 @@ A Live2D desktop pet application built with PyQt5 and OpenGL.
 
 ## Installation
 
-### 1. Standalone Executable (Recommended for regular users)
+### 1. Standalone Executable 
 - Download the latest `demo111.exe` from [Releases] section
 - Double-click to run, no dependencies required
-- Note: Must download and keep the `model` folder in the same directory
 
-### 2. Source Code Version (For developers/advanced users)
+### 2. Source Code Version 
 1. Clone repository:
 ```bash
 git clone [repository_url] 
