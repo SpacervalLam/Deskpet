@@ -1,0 +1,33 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "demomodel.moc3",
+		"Textures": [
+			"demomodel.8192/texture_00.png"
+		],
+		"DisplayInfo": "demomodel.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "expression0",
+				"File": "expression0.exp3.json"
+			},
+			{
+				"Name": "expression1",
+				"File": "expression1.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	],
+	"HitAreas": []
+}

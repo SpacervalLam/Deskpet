@@ -1,0 +1,5 @@
+# Project requirements
+PyQt5>=5.15.0
+PyOpenGL>=3.1.0
+keyboard>=0.13.0
+live2d>=1.0.0
