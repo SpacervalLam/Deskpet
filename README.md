@@ -1,4 +1,6 @@
-# SpacervalLam Desktop Pet
+# Desktop Pet
+
+![Preview](preview.png)
 
 A Live2D desktop pet application built with PyQt5 and OpenGL.
 
@@ -12,9 +14,15 @@ A Live2D desktop pet application built with PyQt5 and OpenGL.
 
 ## Installation
 
-1. Clone the repository:
+### 1. Standalone Executable (Recommended for regular users)
+- Download the latest `demo111.exe` from [Releases] section
+- Double-click to run, no dependencies required
+- Note: Must download and keep the `model` folder in the same directory
+
+### 2. Source Code Version (For developers/advanced users)
+1. Clone repository:
 ```bash
-git clone [repository_url]
+git clone [repository_url] 
 cd [repository_name]
 ```
 
@@ -23,14 +31,10 @@ cd [repository_name]
 pip install -r requirements.txt
 ```
 
-## Usage
-
-1. Run the application:
+3. Run application:
 ```bash
 python demo111.py
 ```
-
-2. The Live2D desktop pet will appear on your screen
 
 ### Controls
 - Left-click and drag to move
@@ -55,3 +59,8 @@ Place your Live2D model files in the `model/` directory:
 - texture_00.png (texture)
 - expression0.exp3.json (expression 1)
 - expression1.exp3.json (expression 2)
+
+## License
+Copyright © 2025 SpacervalLam. All rights reserved.
+
+This project is licensed under the [MIT License](LICENSE).
