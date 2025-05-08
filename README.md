@@ -15,7 +15,7 @@ A Live2D desktop pet application built with PyQt5 and OpenGL.
 ## Installation
 
 ### 1. Standalone Executable 
-- Download the latest `demo111.exe` from [Releases] section
+- Download the latest [demo111.exe](https://github.com/SpacervalLam/Deskpet/releases/latest/download/demo111.exe)  
 - Double-click to run, no dependencies required
 
 ### 2. Source Code Version 
