@@ -59,6 +59,8 @@ Place your Live2D model files in the `model/` directory:
 - expression0.exp3.json (expression 1)
 - expression1.exp3.json (expression 2)
 
+![p](8a1d595a17b6f6699cb823ab3964d53c.gif)
+
 ## License
 Copyright © 2025 SpacervalLam. All rights reserved.
 
