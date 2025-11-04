@@ -47,8 +47,7 @@ class Live2DWidget(QOpenGLWidget):
         初始化 OpenGL 和 Live2D 环境
         """
         try:
-            live2d.glewInit()
-            live2d.setGLProperties()
+            live2d.glInit()
             live2d.init()
 
             # 加载模型
