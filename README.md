@@ -38,12 +38,8 @@ python demo111.py
 ### Controls
 - Left-click and drag to move
 - Mouse wheel to resize
-- Right-click for menu:
-  - "byebye": Exit
-  - "领养说明": Show help
-  - "不准动！"/"可以动了": Lock/unlock
-  - "藏起来": Hide/show
-  - "hate": Toggle expression
+- Hold CTRL + Mouse click: Character closes mouth and takes minimum value
+- CTRL+space: Trigger goodbye function (Shows leaving animation then closes the application)
 
 ## Requirements
 - Python 3.6+
@@ -54,12 +50,8 @@ python demo111.py
 
 ## Model Files
 Place your Live2D model files in the `model/` directory:
-- demomodel.model3.json (main model file)
-- texture_00.png (texture)
-- expression0.exp3.json (expression 1)
-- expression1.exp3.json (expression 2)
 
-![p](8a1d595a17b6f6699cb823ab3964d53c.gif)
+![bar](8a1d595a17b6f6699cb823ab3964d53c.gif)
 
 ## License
 Copyright © 2025 SpacervalLam. All rights reserved.
